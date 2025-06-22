@@ -4,7 +4,7 @@ A modern, responsive restaurant website built with HTML, CSS, and JavaScript. Th
 
 ## 🚀 Live Demo
 
-[View Live Site](#) <!-- Add your deployed link here -->
+[View Live Site](#https://fndemi.github.io/Tacos/) <!-- Add your deployed link here -->
 
 ## 📖 About The Project
 
@@ -160,8 +160,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Design inspiration from modern restaurant websites
-- Images from [Unsplash](https://unsplash.com)
-- Icons from [Font Awesome](https://fontawesome.com)
 - Fonts from [Google Fonts](https://fonts.google.com)
 
 ---
